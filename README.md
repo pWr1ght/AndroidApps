@@ -7,6 +7,6 @@ Uses yelp API and jsoup to scrape pictures from restaurants nearest to you. (Pla
 
 Connect3 is a connect 3 game
 
-blacksplash is just a cool backsplash that I would like to add to something later
+backsplash is just a cool backsplash that I would like to use on a app.
 
 
